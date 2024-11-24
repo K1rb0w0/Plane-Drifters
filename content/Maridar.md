@@ -1,2 +1,0 @@
-#Zoar
-[[Plano Material]]

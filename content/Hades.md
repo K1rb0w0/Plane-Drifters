@@ -1,2 +1,0 @@
-#Lugar
-[[Pluton]]

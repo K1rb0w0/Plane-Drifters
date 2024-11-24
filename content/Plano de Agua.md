@@ -1,2 +1,0 @@
-#Lugar
-[[Viraha]]

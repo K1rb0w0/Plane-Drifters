@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "es-ES",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
@@ -30,27 +30,27 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#EAF2FB",
-          lightgray: "#CAD3E0",
-          gray: "#7E8DA0",
-          darkgray: "#4A5568",
-          dark: "#2A3242",
-          secondary: "#2E6DD2",
-          tertiary: "#80B6FF",
-          highlight: "#FFE29D",
-          textHighlight: "#F7FAFC",
+          light: "#F0F8FF", // Alice Blue
+          lightgray: "#D0D7DE", // Soft Gray
+          gray: "#A9B2C3", // Muted Steel Blue
+          darkgray: "#5A5A6E", // Charcoal Gray
+          dark: "#283747", // Deep Space Blue
+          secondary: "#1565C0", // Stronger Cosmic Blue for better readability
+          tertiary: "#FF7F50", // Coral
+          highlight: "#FFEB8A", // Slightly deeper Solar Yellow for more contrast
+          textHighlight: "#FFFFFF", // Pure White for contrast
         },
         darkMode: {
-          light: "#121A26",
-          lightgray: "#1C2838",
-          gray: "#415162",
-          darkgray: "#6A7A8F",
-          dark: "#B0BCCB",
-          secondary: "#4D9CEB",
-          tertiary: "#5090E0",
-          highlight: "#FFC857",
-          textHighlight: "#1F2935",
-        },
+          light: "#1C1C28", // Midnight Black
+          lightgray: "#2E3440", // Nebula Gray
+          gray: "#4C566A", // Asteroid Gray
+          darkgray: "#D8DEE9", // Light Silver
+          dark: "#ECEFF4", // Moonlight White
+          secondary: "#81D4FA", // Brighter Aurora Blue for improved readability
+          tertiary: "#70AFFF", // Comet Blue
+          highlight: "#4C566A", // Muted Asteroid Gray to complement Aurora Blue
+          textHighlight: "#1E1F26", // Subtle Dark for text highlight
+        },                                
       },
     },
   },

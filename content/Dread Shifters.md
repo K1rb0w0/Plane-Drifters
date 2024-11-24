@@ -1,0 +1,3 @@
+#NPC
+[[Zo'ar]]
+[[Percival]]

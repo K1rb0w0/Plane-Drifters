@@ -5,7 +5,7 @@ title: Plane Drifters
 # Registro de los Plane Drifters: La Crónica de un Viaje Eterno
 
 **Acceso temporal permitido: Decodificación en curso…**  
-**Archivo recuperado el: 27 de Octubre, 3203 AN**
+**Archivo recuperado el: 13 de Octubre, 1426 BFHR**
 
 ---
 

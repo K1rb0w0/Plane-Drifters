@@ -8,6 +8,7 @@ Asexual
 - Gran Hermano
 ### Tipo de Criatura
 - Outsider (Antiguamente)
+- Undead (Antiguamente)
 - Dragon
 ### Raza
 - [[Aetherborn]] (Antiguamente)

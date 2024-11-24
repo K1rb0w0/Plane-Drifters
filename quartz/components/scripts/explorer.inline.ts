@@ -21,10 +21,22 @@ function toggleExplorer(this: HTMLElement) {
     "aria-expanded",
     this.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
-  const content = this.nextElementSibling as MaybeHTMLElement
+  const content = (
+    this.nextElementSibling?.nextElementSibling
+      ? this.nextElementSibling.nextElementSibling
+      : this.nextElementSibling
+  ) as MaybeHTMLElement
   if (!content) return
 
   content.classList.toggle("collapsed")
+  content.classList.toggle("explorer-viewmode")
+
+  // Prevent scroll under
+  if (document.querySelector("#mobile-explorer")) {
+    // Disable scrolling one the page when the explorer is opened on mobile
+    const bodySelector = document.querySelector("#quartz-body")
+    if (bodySelector) bodySelector.classList.toggle("lock-scroll")
+  }
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -53,57 +65,101 @@ function toggleFolder(evt: MouseEvent) {
 }
 
 function setupExplorer() {
-  const explorer = document.getElementById("explorer")
-  if (!explorer) return
+  // Set click handler for collapsing entire explorer
+  const allExplorers = document.querySelectorAll(".explorer > button") as NodeListOf<HTMLElement>
 
-  if (explorer.dataset.behavior === "collapse") {
+  for (const explorer of allExplorers) {
+    // Get folder state from local storage
+    const storageTree = localStorage.getItem("fileTree")
+
+    // Convert to bool
+    const useSavedFolderState = explorer?.dataset.savestate === "true"
+
+    if (explorer) {
+      // Get config
+      const collapseBehavior = explorer.dataset.behavior
+
+      // Add click handlers for all folders (click handler on folder "label")
+      if (collapseBehavior === "collapse") {
+        for (const item of document.getElementsByClassName(
+          "folder-button",
+        ) as HTMLCollectionOf<HTMLElement>) {
+          window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
+          item.addEventListener("click", toggleFolder)
+        }
+      }
+
+      // Add click handler to main explorer
+      window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
+      explorer.addEventListener("click", toggleExplorer)
+    }
+
     for (const item of document.getElementsByClassName(
-      "folder-button",
+      "folder-icon",
     ) as HTMLCollectionOf<HTMLElement>) {
       item.addEventListener("click", toggleFolder)
       window.addCleanup(() => item.removeEventListener("click", toggleFolder))
     }
+
+    // Get folder state from local storage
+    const oldExplorerState: FolderState[] =
+      storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
+    const oldIndex = new Map(oldExplorerState.map((entry) => [entry.path, entry.collapsed]))
+    const newExplorerState: FolderState[] = explorer.dataset.tree
+      ? JSON.parse(explorer.dataset.tree)
+      : []
+    currentExplorerState = []
+
+    for (const { path, collapsed } of newExplorerState) {
+      currentExplorerState.push({
+        path,
+        collapsed: oldIndex.get(path) ?? collapsed,
+      })
+    }
+
+    currentExplorerState.map((folderState) => {
+      const folderLi = document.querySelector(
+        `[data-folderpath='${folderState.path.replace("'", "-")}']`,
+      ) as MaybeHTMLElement
+      const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
+      if (folderUl) {
+        setFolderState(folderUl, folderState.collapsed)
+      }
+    })
   }
+}
+function toggleExplorerFolders() {
+  const currentFile = (document.querySelector("body")?.getAttribute("data-slug") ?? "").replace(
+    /\/index$/g,
+    "",
+  )
+  const listToReplace = document.querySelectorAll(".folder-outer:has(> ul[data-folderul]")
 
-  explorer.addEventListener("click", toggleExplorer)
-  window.addCleanup(() => explorer.removeEventListener("click", toggleExplorer))
-
-  // Set up click handlers for each folder (click handler on folder "icon")
-  for (const item of document.getElementsByClassName(
-    "folder-icon",
-  ) as HTMLCollectionOf<HTMLElement>) {
-    item.addEventListener("click", toggleFolder)
-    window.addCleanup(() => item.removeEventListener("click", toggleFolder))
-  }
-
-  // Get folder state from local storage
-  const storageTree = localStorage.getItem("fileTree")
-  const useSavedFolderState = explorer?.dataset.savestate === "true"
-  const oldExplorerState: FolderState[] =
-    storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
-  const oldIndex = new Map(oldExplorerState.map((entry) => [entry.path, entry.collapsed]))
-  const newExplorerState: FolderState[] = explorer.dataset.tree
-    ? JSON.parse(explorer.dataset.tree)
-    : []
-  currentExplorerState = []
-  for (const { path, collapsed } of newExplorerState) {
-    currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
-  }
-
-  currentExplorerState.map((folderState) => {
-    const folderLi = document.querySelector(
-      `[data-folderpath='${folderState.path}']`,
-    ) as MaybeHTMLElement
-    const folderUl = folderLi?.parentElement?.nextElementSibling as MaybeHTMLElement
-    if (folderUl) {
-      setFolderState(folderUl, folderState.collapsed)
+  listToReplace.forEach((element) => {
+    if (element.children.length > 0) {
+      if (currentFile.includes(element.firstElementChild?.getAttribute("data-folderul") ?? "")) {
+        if (!element.classList.contains("open")) {
+          element.classList.add("open")
+        }
+      }
     }
   })
 }
 
 window.addEventListener("resize", setupExplorer)
+
 document.addEventListener("nav", () => {
+  const explorer = document.querySelector("#mobile-explorer")
+  if (explorer) {
+    explorer.classList.add("collapsed")
+    const content = explorer.nextElementSibling?.nextElementSibling as HTMLElement
+    if (content) {
+      content.classList.add("collapsed")
+      content.classList.toggle("explorer-viewmode")
+    }
+  }
   setupExplorer()
+
   observer.disconnect()
 
   // select pseudo element at end of list
@@ -111,6 +167,11 @@ document.addEventListener("nav", () => {
   if (lastItem) {
     observer.observe(lastItem)
   }
+  // Hide explorer on mobile until it is requested
+  const hiddenUntilDoneLoading = document.querySelector("#mobile-explorer")
+  hiddenUntilDoneLoading?.classList.remove("hide-until-loaded")
+
+  toggleExplorerFolders()
 })
 
 /**

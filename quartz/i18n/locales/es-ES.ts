@@ -54,7 +54,7 @@ export default {
       title: "Contenido",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `Se lee en ${minutes} min`,
+      readingTime: ({ minutes }) => ``,
     },
   },
   pages: {

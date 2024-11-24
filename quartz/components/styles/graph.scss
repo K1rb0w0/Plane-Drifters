@@ -7,12 +7,12 @@
   }
 
   & > .graph-outer {
-    border-radius: 8px;
+    border-radius: 5px;
     border: 1px solid var(--gray);
     aspect-ratio: 1 / 1;
     box-sizing: border-box;
     height: 250px;
-    margin: 1em 0;
+    margin: 0.5em 0;
     position: relative;
     overflow: hidden;
     &:hover {
@@ -60,15 +60,15 @@
     & > #global-graph-container {
       border: 1px solid var(--lightgray);
       background-color: var(--light);
-      border-radius: 8px;
+      border-radius: 5px;
       box-sizing: border-box;
       position: fixed;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
       aspect-ratio: 1 / 1;
-      width: 90vw;
-      height: 90vh;
+      width: 80vw;
+      height: 80vh;
 
       @media all and not ($desktop) {
         width: 90%;

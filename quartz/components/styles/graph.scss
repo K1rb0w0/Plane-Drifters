@@ -7,13 +7,18 @@
   }
 
   & > .graph-outer {
-    border-radius: 5px;
-    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    border: 1px solid var(--gray);
+    aspect-ratio: 1 / 1;
     box-sizing: border-box;
     height: 250px;
-    margin: 0.5em 0;
+    margin: 1em 0;
     position: relative;
     overflow: hidden;
+    &:hover {
+      border-color: var(--secondary);
+      transition: border-color 0.3s ease;
+    }
 
     & > #global-graph-icon {
       cursor: pointer;
@@ -31,7 +36,6 @@
       border-radius: 4px;
       background-color: transparent;
       transition: background-color 0.5s ease;
-      cursor: pointer;
       &:hover {
         background-color: var(--lightgray);
       }
@@ -56,14 +60,15 @@
     & > #global-graph-container {
       border: 1px solid var(--lightgray);
       background-color: var(--light);
-      border-radius: 5px;
+      border-radius: 8px;
       box-sizing: border-box;
       position: fixed;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      height: 80vh;
-      width: 80vw;
+      aspect-ratio: 1 / 1;
+      width: 90vw;
+      height: 90vh;
 
       @media all and not ($desktop) {
         width: 90%;

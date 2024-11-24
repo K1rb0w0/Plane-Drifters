@@ -51,7 +51,6 @@ const config: QuartzConfig = {
           highlight: "#FFC857",
           textHighlight: "#1F2935",
         },
-                
       },
     },
   },

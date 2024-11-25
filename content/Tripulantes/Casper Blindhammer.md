@@ -1,11 +1,10 @@
  ![[Casper Token.png|250]]
 ### Nombre
-Casper del Clan Blindhammer
+Casper Blindhammer
 ### Género
 Asexual
 ### Títulos
-- Líder del Clan Blindhammer
-- Gran Hermano
+- Gran Hermano del Clan Blindhammer
 ### Tipo de Criatura
 - Outsider (Antiguamente)
 - Undead (Antiguamente)

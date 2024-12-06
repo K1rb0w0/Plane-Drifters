@@ -1,6 +1,4 @@
-> [!Introduccion]
-> > _"**Midas ibn Musim El-Masari**… sí, el de las leyendas prohibidas y los libros que has leído a escondidas. He cruzado más planos de los que has soñado y dejado corazones rotos en todos ellos. Pero no te preocupes, todavía me queda espacio para uno más.
-> > Los dioses me temen, los demonios me buscan, y tú… bueno, tú solo quieres un autógrafo. Aunque, si lo prefieres, podríamos escribir una historia juntos. ¿Qué dices...?"_
+> [!Intro] "Midas ibn Musim El-Masari… sí, el de las leyendas prohibidas y los libros que has leído a escondidas. He cruzado más planos de los que has soñado y dejado corazones rotos en todos ellos. Pero no te preocupes, todavía me queda espacio para uno más. Los dioses me temen, los demonios me buscan, y tú… bueno, tú solo quieres un autógrafo. Aunque, si lo prefieres, podríamos escribir una historia juntos. ¿Qué dices...?"
 
 # Midas ibn Musim El-Masari
 
@@ -11,13 +9,12 @@
 | **Tipo de Criatura**    |                           | Outsider (Native) (Antiguamente)<br>Undead (Native, Augmented)                                                                                                                                                                                                                           |
 | **Raza**                |                           | [[Aasimar]] (Angel-Blooded)                                                                                                                                                                                                                                                              |
 | **Clases**              |                           | Hellion<br>Mythic Trickster                                                                                                                                                                                                                                                              |
-| **Fecha de nacimiento** |                           | 9 de Hecatomb                                                                                                                                                                                                                                                                            |
-| **Edad**                |                           | 27 años en 1163 (Sin seguir envejeciendo desde entonces)                                                                                                                                                                                                                                 |
+| **Fecha de nacimiento** |                           | 9 de Hecatomb de 1135                                                                                                                                                                                                                                                                    |
+| **Edad**                |                           | 27 años en 1163 (Biológicamente 27 años al no envejecer)                                                                                                                                                                                                                                 |
 | **Altura**              |                           | 5ft. 9in. (1,75 m.)                                                                                                                                                                                                                                                                      |
 | **Peso**                |                           | 145 lbs. (66 kg.)                                                                                                                                                                                                                                                                        |
 | **Alineamiento**        |                           | Neutral                                                                                                                                                                                                                                                                                  |
-| **Lenguajes**           |                           | [[Celestial]]<br>[[Common]]                                                                                                                                                                                                                                                              |
-| **Lugares**             |                           | [[Naktamun]], [[Amonkhet]] (Lugar de nacimiento)                                                                                                                                                                                                                                         |
+| **Lugares simbólicos**  |                           | [[Naktamun]], [[Amonkhet]] (Lugar de nacimiento)                                                                                                                                                                                                                                         |
 | **Conexiones**          |                           | [[Musim Elmasari]] (Padre)<br>[[Iset Elmasari]] (Madre)<br>[[Ineni Sobekneferu]] (Tía Jurada)<br>[[Dimas Elmasari]] (Hermano)<br>[[Plane Drifters]] (Miembro)<br>[[Hazoret]] (Deidad asociada)<br>[[Jerrek]] (Patrón)<br>[[Pleasure Devils]] (Seguidores)<br>[[Moloch]] (Antiguo patrón) |
 | **Estado**              |                           | No Muerto (Momificado)                                                                                                                                                                                                                                                                   |
 | **Causas de Muerte**    |                           | Asesinado por [[Dimas Elmasari]] en combate a muerte durante la Quinta Prueba de Amonkhet                                                                                                                                                                                                |
@@ -27,11 +24,13 @@
 ## Apariencia
 
 **Midas ibn Musim El-Masari** es un [[aasimar]] cuya apariencia es tan cautivadora como inquietante. Su cabello, originalmente rubio, se ha transformado en una melena negra azabache salpicada por mechones dorados, un reflejo de su dualidad interna. Su piel azulada contrasta de manera hipnótica con sus ojos, que alguna vez fueron de un vibrante color naranja. Sin embargo, tras un pacto oscuro con un archidiablo, esos ojos ahora brillan con un profundo tono morado, símbolo del poder, honor y renombre que obtuvo a cambio de su alma.
+
 Con una figura atlética, de proporciones esbeltas y gráciles, su presencia es elegante, pero su porte desenfadado y arrogante le confiere un aire de peligro velado. La sonrisa que adorna su rostro con frecuencia es tan seductora como desconcertante, dejando a quienes lo rodean preguntándose si son simples espectadores o piezas en su juego.
 
 ## Personalidad
 
 **Midas** es carismático hasta el extremo, pero ese encanto no es un regalo inocente. Es un maestro de la manipulación, siempre buscando la manera de sacar provecho de cada situación en la que se encuentra. Aunque no es abiertamente hostil, actúa con una discreción meticulosa, moviendo hilos desde las sombras para obtener ventaja sin levantar sospechas.
+
 Su humor burlesco y risueño, junto con sus comentarios pícaros, lo convierten en el centro de atención en cualquier conversación. Pero detrás de ese carácter risueño se oculta una mente calculadora que no deja nada al azar. Aunque **Midas** puede ser protector con quienes considera importantes, su lealtad tiene límites, especialmente cuando el poder o el prestigio están en juego.
 
 # Biografía
@@ -48,7 +47,7 @@ Ah, y antes de que sigas imaginando cómo podría ser tan fascinante, te contar�
 
 ## Creciendo bajo una sombra… y bajo el yugo de un padre inquebrantable
 
-Ahora, déjame contarte cómo fue crecer en la familia **El-Masari**, donde la disciplina no era una opción, sino una religión. Nuestro padre, [[Musim]], un exmilitar, decidió que sus hijos serían los guerreros más grandes que [[Naktamun]] jamás hubiera visto.
+Ahora, déjame contarte cómo fue crecer en la familia **El-Masari**, donde la disciplina no era una opción, sino una religión. Nuestro padre, [[Musim Elmasari|Musim]], un exmilitar, decidió que sus hijos serían los guerreros más grandes que [[Naktamun]] jamás hubiera visto.
 
 Dimas, por supuesto, era el prodigio. El que siempre recibía los elogios, los aplausos y las miradas de aprobación. “¡Increíble, [[Dimas Elmasari|Dimas]]! Eres un verdadero hijo de **Naktamun**.” Y luego estaba yo, el eterno segundo lugar, al que le reservaban frases del tipo: “**Midas**… sigue intentándolo.”
 
@@ -106,7 +105,7 @@ Me alié con **Jerrek** y, como recompensa, recibí un tridente, símbolo de mi 
 Pero la verdadera aventura no terminó ahí. Porque el viaje más difícil fue el regreso a casa. Volví a [[Naktamun]]. Escribí cartas a [[Dimas Elmasari|Dimas]], contándole mis hazañas, esperando algún día enfrentarme a él. Y cuando llegó el momento, regresé. No para vengarme, sino para pedir perdón.
 
 Y como el buen mentiroso que soy, me escapé, Mis compañeros me alcanzaron en mis tierras y con enojo entendieron mi situación.  
-El pueblo nos recibió con miradas silenciosas, cuchicheos y juicios. Los dicses me enfrentaron a mi padre y a mi hermano. Me ofrecieron una oportunidad:  
+El pueblo nos recibió con miradas silenciosas, cuchicheos y juicios. Los dicses me enfrentaron a mi padre y a mi hermano. Me ofrecieron una oportunidad:
 
 Completar la Quinta Prueba.  
 Un combate contra Dimas.
@@ -151,9 +150,16 @@ Sí, tengo una lista. No cualquier lista, una lista sexual. Un registro meticulo
 
 ## Habilidades
 
+### Lenguajes Adicionales
+
+- [[Lenguajes#Common|Common]]
+- [[Lenguajes#Celestial|Celestial]]
+
+- [[Lenguajes#Infernal|Infernal]]
+
 # Frases Icónicas
 
-- _"Qué tristeza…se murió [[Dahlia]]."_
+- _"Qué tristeza… se murió [[Dahlia]]."_
 - _"¿Quieres ver mi lista?"_
 - _"La vida es corta, pero yo... nunca lo soy."_
 - _"La traición me costó todo... pero la redención, esa la gané con una sonrisa."_

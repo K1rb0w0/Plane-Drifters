@@ -1,1 +1,0 @@
-![[Thorbardin.png|256]]

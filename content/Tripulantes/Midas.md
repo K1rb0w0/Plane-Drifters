@@ -150,7 +150,7 @@ Sí, tengo una lista. No cualquier lista, una lista sexual. Un registro meticulo
 
 ## Habilidades
 
-### Lenguajes Adicionales
+### Lenguajes
 
 - [[Lenguajes#Common|Common]]
 - [[Lenguajes#Celestial|Celestial]]
@@ -169,7 +169,7 @@ Sí, tengo una lista. No cualquier lista, una lista sexual. Un registro meticulo
 
 - **Midas** no lo sabe pero las vendas valen mucho oro.
 - Irónicamente, midas nunca ha visto a otro **aasimar** más que a él y su hermano… y mucho menos en la cama.
-- Tiene un crush con la [[thri-kreen]] de la academia.
+- Tiene un crush con la **thri-kreen** de la academia.
 - La primera vez que vio a un dragón fue cuando conoció la segunda forma de [[Casper]].
 - **Midas** tiene un tatuaje no mágico en el brazo de un tridente.
 - Se robo accidentalmente y perdió el cómic que le prestó [[Pffred]] en la academia.

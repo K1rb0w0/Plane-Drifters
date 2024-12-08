@@ -9,7 +9,7 @@
 | **Clases**              |                            | Magus (Myrmidarch)<br>Arcane Archer |
 | **Fecha de nacimiento** |                            |                                     |
 | **Edad**                |                            | 170 años                            |
-| **Alineamiento**        |                            | Lawful Neutral                      |
+| **Alineamiento**        |                            | Legal Neutral                       |
 | **Lugares simbólicos**  |                            |                                     |
 | **Conexiones**          |                            |                                     |
 | **Estado**              |                            | Viva (Revivida 3 veces)             |

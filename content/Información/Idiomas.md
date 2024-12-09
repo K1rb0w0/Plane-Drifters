@@ -38,7 +38,7 @@ El **Common** es el idioma hablado y escrito por casi todas las razas civilizada
 
 ## Raumvira
 
-El **Raumvira** es un idioma del grupo de idiomas **Imaskari**. Tiene sonidos vocálicos redondos y amplios. Sus sonidos R eran rodados. Era hablado por los [[Imperio Raumathar|raumvirans]], los remanentes del [[Imperio Raumathar]] que residían en la región del **Lake of Mists**.
+El **Raumvira** es un idioma del grupo de idiomas **Imaskari**. Tiene sonidos vocálicos redondos y amplios. Sus sonidos R eran rodados. Era hablado por los [[Imperio Raumathar|raumvirans]], los remanentes del [[Imperio Raumathar]] que residían en la región del **Lake of Mists**, [[Toril]].
 
 Fue escrito en el alfabeto **Dethek**, que los **raumvirans** aprendieron de los enanos **siremun** mucho antes incluso de la fundación de **Raumathar**. Estaba fuertemente influenciado por el **Dawrvish** y el **Roushoum** (**Imaskari**) hablado en las partes septentrionales del **Imperio Imaskari**. Se lo consideraba una de las lenguas **imaskari** del norte.
 
@@ -50,7 +50,7 @@ Fue escrito en el alfabeto **Dethek**, que los **raumvirans** aprendieron de los
 El **Skald** es el idioma de los habitantes del extremo noroeste de Faerûn, en **Frozenfar**. Suena sonoro y áspero al oído del sur y tiene un tono melodioso y melodioso con palabras largas y complejas. El **Skald** utiliza el alfabeto **Dwarven** con algunas letras importadas del **Common**.
 
 - Escritura: **Dethek** y **Thorass**
-- Hablantes: [[Human|Humanos]] de **Frozenfar**
+- Hablantes: [[Human|Humans]] de **Frozenfar**
 
 ## Sign language
 
@@ -72,6 +72,22 @@ La tripulación **Grimm Nebula** creó un idioma de señas para comunicarse entr
 - Escritura: Sin descifrar
 - Hablantes: Tripulación **Grimm Nebula**
 
+## Tharian
+
+El **Tharian** era una colección de idiomas **humans** hablados en la región de **Thar**, [[Toril]]. Deriva del **Auld Tharian**, uno de los idiomas del **North Thorass**. Era hablado por los habitantes del norte y el oeste de **Moonsea**, desde **Glister** en el norte hasta **Hillsfar** en el sur, y desde **Snowmantle** en el oeste hasta **Sulasspryn** en el este.
+
+Los ciudadanos de **Glister** y **Phlan** hablaban cada uno su propio dialecto, y las ciudades cercanas de **Melvaunt** y **Thentia** también compartían un dialecto **Tharian** común. Asimismo, **Hulburg** y **Sulasspryn** hablaban un dialecto conocido como **East Tharian**.
+
+- Escritura: **Throsass**
+- Hablantes: [[Human|Humans de Thar]]
+
+### Zhentarim Argot
+
+Los [[Zhentarim]] hablaban su propio dialecto del **Tharian**, además de su propia jerga secreta conocido como **Zhentarim Argot**. Los ciudadanos de Glister y Phlan hablaban cada uno su propio dialecto, y las ciudades cercanas de Melvaunt y Thentia también compartían un dialecto tharian común. Asimismo, Hulburg y Sulasspryn hablaban un dialecto conocido como tharian oriental.
+
+- Escritura: **Throsass**
+- Hablantes: [[Zhentarim]]
+
 # No Humanos
 
 ## Draconic
@@ -82,7 +98,7 @@ Fue uno de los primeros idiomas, que influyó o creó el lenguaje de los **kobol
 
 Si bien algunos creen que se trata de un idioma monolítico que se ha mantenido casi sin cambios desde su creación, en realidad el idioma se ha desarrollado y cambiado con el tiempo. El precursor más antiguo del idioma se conocía como **Auld Wyrmish**, seguido por **Aragrakh**.
 
-Cada subespecie de **dragon** posee sus propios dialectos que podían considerarse idiomas separados por derecho propio. Se utilizan ligeras variaciones en el dialecto **Draconic** entre los diferentes tipos de [[Dragon#Chromatic Dragon|chromatic dragons]], y se consideran equivalentes a los acentos regionales. Los [[Dragon#Metallic Dragon|metallic dragons]], por otro lado, tienen todos acentos similares.
+Cada subespecie de **dragon** posee sus propios dialectos que podían considerarse idiomas separados por derecho propio. Se utilizan ligeras variaciones en el dialecto **Draconic** entre los diferentes tipos de [[Chromatic Dragon|chromatic dragons]], y se consideran equivalentes a los acentos regionales. Los [[Metallic Dragon|metallic dragons]], por otro lado, tienen todos acentos similares.
 
 Los **dragonborn** y los **kobolds** tienen sus propios dialectos **Draconic** únicos, el **Tymantheran** y el **Yipyak**, respectivamente. Las **dracohydras** también tienen su propio dialecto, derivado del de los **chromatic dragons**. Hay suficientes similitudes entre estos dialectos como para que los **chromatics** y las **dracohydras** puedan entender aproximadamente la mitad de lo que dice el otro.
 
@@ -116,7 +132,7 @@ El **Elven** (a veces denominado **True Tongue**) era el idioma (o familia ling�
 
 Su escritura se conocía como **Espruar**. Es un idioma complejo, pero suena poético en tono y cadencia. Existen incontables dialectos del **Elven** (**Grodd**, **Sea Elvish**, **Wild Elvish**, **Silvanesti**, **Qualinesti**, **Kagonesti**, **Dargonesti**, **Dimernesti**, **Hest**, **Silvanaes**, **Lucanesti**, **Cha'asii**, etc.).
 
-El dialecto de los [[Wildspace]] **elves** y de la **Imperial Elf Navy** está estrechamente relacionada con los dialectos **elvish** terrestres. La mayoría de estos dialectos, a menos que hayan perdido contacto con los **Wildspace elves** durante un período prolongado de tiempo (e incluso en esos casos, el cambio suele estar basado en algún otro aspecto, como la falta de una vida sedentaria), pueden considerarse dialectos cercanos para determinar la capacidad de conversación. La prevalencia de los **elves** en el espacio hace que el **Elvish** sea una buena alternativa al [[Idiomas#Common#Wildspace|Wildspace Common]] cuando se necesita comunicarse con gente dispar. Una excepción notable son los dialectos **elvish** que se encuentran en el [[Krynnspace]]; aunque son similares (la mayoría de los humanos no entrenados no pueden notar la diferencia), comprenden idiomas únicos.
+El dialecto de los [[Wildspace]] **elves** y de la **Imperial Elf Navy** está estrechamente relacionada con los dialectos **elvish** terrestres. La mayoría de estos dialectos, a menos que hayan perdido contacto con los **Wildspace elves** durante un período prolongado de tiempo (e incluso en esos casos, el cambio suele estar basado en algún otro aspecto, como la falta de una vida sedentaria), pueden considerarse dialectos cercanos para determinar la capacidad de conversación. La prevalencia de los **elves** en el espacio hace que el **Elvish** sea una buena alternativa al [[Idiomas#Common#Wildspace|Wildspace Common]] cuando se necesita comunicarse con gente dispar. Una excepción notable son los dialectos **elvish** que se encuentran en el [[Krynnspace]]; aunque son similares (la mayoría de los **humans** no entrenados no pueden notar la diferencia), comprenden idiomas únicos.
 
 - Escritura: **Espruar**
 - Hablantes: [[Elves]]
@@ -157,7 +173,7 @@ En el [[Realmspace]], originalmente utilizaba la escritura **Dethek**, pero los 
 
 ## Halfling
 
-Se cree que el idioma de los **halflings** se desarrolló a partir de una versión codificada del [[Idiomas#Common|Common]]. El idioma tiene muchos dialectos regionales, hasta el punto de que los **halflings** pueden tener dificultades para comunicarse con **halflings** extranjeros en áreas complejas. Como los medianos son tan adaptables por naturaleza, algunos **halflings** abandonan su lengua materna y hablan en su lugar el [[Idiomas#Common|Common]] u otros idiomas humanos.
+Se cree que el idioma de los **halflings** se desarrolló a partir de una versión codificada del [[Idiomas#Common|Common]]. El idioma tiene muchos dialectos regionales, hasta el punto de que los **halflings** pueden tener dificultades para comunicarse con **halflings** extranjeros en áreas complejas. Como los medianos son tan adaptables por naturaleza, algunos **halflings** abandonan su lengua materna y hablan en su lugar el [[Idiomas#Common|Common]] u otros idiomas **humans**.
 
 Los **halflings** tenían una sólida historia oral, pero se resistían a compartir su idioma con otros, y todo lo que escribían solía estar escrito en [[Idiomas#Common|Common]]. No se podía clasificar como lengua secreta, pero era raro que los que no eran **halflings** la vieran o la oyeran.
 
@@ -168,7 +184,7 @@ Al igual que el [[Idiomas#Dwarvish|Dwarvish]], cada mundo tiene un dialecto **Ha
 
 ## Sylvan
 
-El **Sylvan** es el idioma de los [[Fey|feys]], es uno de los idiomas más estáticos de todos. Se cree que es casi tan antiguo como el [[Idiomas#No Humanos#Draconic|Draconic]], y tiene un vocabulario diminuto que apenas ha cambiado a lo largo de los eones.
+El **Sylvan** es el idioma de los [[Fey|feys]], es uno de los idiomas más estáticos de todos. Se cree que es casi tan antiguo como el [[Idiomas#Draconic|Draconic]], y tiene un vocabulario diminuto que apenas ha cambiado a lo largo de los eones.
 
 Su forma escrita utilizaba el alfabeto **Espruar**. De éste se desprenden varios derivados y dialectos, como el que hablan los centauros del [[Krynnspace]].
 

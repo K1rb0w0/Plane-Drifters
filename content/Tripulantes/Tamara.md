@@ -45,7 +45,7 @@
 - [[Idiomas#Draconic|Draconic]]
 - [[Idiomas#Necril|Necril]]
 - [[Idiomas#Thieves' Cant|Thieves' Cant]]
-- [[Idiomas#Tharian|Tharian]] (Zhentarim Argot)
+- [[Idiomas#Zhentarim Argot|Zhentarim Argot]]
 - [[Idiomas#Undercommon|Undercommon]]
 
 - [[Idiomas#Giant|Giant]]

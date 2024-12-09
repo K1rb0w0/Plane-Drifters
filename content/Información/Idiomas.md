@@ -2,7 +2,7 @@
 
 ## Common
 
-El **Common**, también llamado **Common Speech** o **Common Tongue**, es un idioma comercial. Casi todos los seres civilizados y sintientes hablan algo de él y la mayoría lo hablan con fluidez. La ventaja obvia del **Common** era que prácticamente todas las criaturas inteligentes podían hablarlo. Es cierto que los acentos regionales tendían a confundir el asunto; los nativos de áreas distantes a veces consideraban que los acentos de los demás eran extraños o tontos, pero aun así podían entenderse.
+El **Common**, también llamado **Common Speech** o **Common Tongue**, es un idioma comercial. Casi todos los seres civilizados y sintientes hablan algo de él y la mayoría lo hablan con fluidez. La ventaja obvia del **Common** era que prácticamente todas las criaturas inteligentes podían hablarlo. Es cierto que los acentos regionales tendían a confundir el asunto; los nativos de áreas distantes a veces consideran que los acentos de los demás son extraños o tontos, pero aun así pueden entenderse.
 
 ### Wildspace
 
@@ -13,9 +13,9 @@ El idioma **Common** del [[Wildspace]] es un antiguo criollo de la lengua humana
 
 ### Realmspace
 
-El **Common** es el idioma hablado y escrito por casi todas las razas civilizadas del [[Realmspace]]. Aunque la mayoría no sabe leer ni escribir el idioma, en general, los habitantes del **Realmspace** podrían conversar entre sí con este idioma. El **Common** era poco más que un idioma comercial, es decir, no servía para temas complicados. Era un idioma simple y poco expresivo. Casi todos los habitantes del **Realmspace** hablan **Common** como segunda lengua, incluidos los no humanos. Los que vivían en zonas remotas lo hablaban mal, pero la mayoría podía arreglárselas.
+El **Common** es el idioma hablado y escrito por casi todas las razas civilizadas del [[Realmspace]]. Aunque la mayoría no sabe leer ni escribir el idioma, en general, los habitantes del **Realmspace** podrían conversar entre sí con este idioma. El **Common** era poco más que un idioma comercial, es decir, no servía para temas complicados. Era un idioma simple y poco expresivo. Casi todos los habitantes del **Realmspace** hablan **Common** como segunda lengua, incluidos los no humanos. Los que vivían en zonas remotas lo hablan mal, pero la mayoría puede arreglárselas.
 
-El **Common** usaba el alfabeto **Thorass**. Los [[Elf|elves]] a veces escribían en común en **Espruar**. Según los lingüistas del **Realmspace**, el **Common** se desarrolló directamente a partir del **Thorass**, u **Old Common**, que era en sí mismo una variante pidgin del idioma **Jhaamdathan** (**Old Chondathan**) y el **Alzhedo**. Entre los idiomas vivos, el **Common** era el más estrechamente relacionado con el **Chondathan**. El **Common** se agrupaba con los idiomas **Central Thorass** en el grupo de idiomas **Thorass**.
+El **Common** usa el alfabeto **Thorass**. Los [[Elf|elves]] a veces escribían en común en **Espruar**. Según los lingüistas del **Realmspace**, el **Common** se desarrolló directamente a partir del **Thorass**, u **Old Common**, que era en sí mismo una variante pidgin del idioma **Jhaamdathan** (**Old Chondathan**) y el **Alzhedo**. Entre los idiomas vivos, el **Common** era el más estrechamente relacionado con el **Chondathan**. El **Common** se agrupa con los idiomas **Central Thorass** en el grupo de idiomas **Thorass**.
 
 - Escritura: **Thorass**
 - Hablantes: Casi todas las criaturas en **Faerûn**
@@ -54,7 +54,7 @@ El **Skald** es el idioma de los habitantes del extremo noroeste de Faerûn, en 
 
 ## Sign language
 
-El **Sign language** era un sistema de comunicación que implicaba gestos con las manos y otros gestos. Lo utilizaban las personas sordomudas y quienes lo habían aprendido para comunicarse con ellas, así como las personas que deseaban comunicarse en silencio o en secreto. En el multiverso se utilizan varias formas distintas de **Sign language**. Estas formas de comunicación también se denominaban **Silent languages**.
+El **Sign language** es un sistema de comunicación que implica gestos con las manos y otros gestos. Lo utilizan las personas sordomudas y quienes lo habían aprendido para comunicarse con ellas, así como las personas que desean comunicarse en silencio o en secreto. En el multiverso se utilizan varias formas distintas de **Sign language**. Estas formas de comunicación también se denominan **Silent languages**.
 
 Algunos **Sign languages** específicos fueron:
 
@@ -76,16 +76,30 @@ La tripulación **Grimm Nebula** creó un idioma de señas para comunicarse entr
 
 ## Draconic
 
+El **Draconic** es el idioma de los [[Dragon|dragons]]. Aunque el término lo utilizan unos pocos dragones, es en gran medida un exónimo, siendo el término adecuado para el idioma **Glav** (que significa "hablar/conversar"). Utiliza su propio alfabeto distintivo, llamado **Iokharic**. Otros hablantes nativos incluían miembros de razas relacionadas con los **dragones**, como los [[Kobold|kobolds]] y los **dragonborn**, y miembros de razas reptiles como los **lizardfolk** y los **troglodytes**. El idioma se usa comúnmente para escritos arcanos, por lo que era comúnmente aprendido por **elves** y magos.
+
+Fue uno de los primeros idiomas, que influyó o creó el lenguaje de los **kobolds** y otras razas. Según los **dragons**, su idioma era la lengua mortal más antigua del multiverso y todos los demás idiomas mortales descendían de él. Se desconocía y se consideraba imposible determinar cuándo los dracoformes comenzaron a desarrollar el lenguaje. Algunas criaturas del [[Krynnspace]] dicen que tiene sus raíces en la primigenia **Song of Creation**.
+
+Si bien algunos creen que se trata de un idioma monolítico que se ha mantenido casi sin cambios desde su creación, en realidad el idioma se ha desarrollado y cambiado con el tiempo. El precursor más antiguo del idioma se conocía como **Auld Wyrmish**, seguido por **Aragrakh**.
+
+Cada subespecie de **dragon** posee sus propios dialectos que podían considerarse idiomas separados por derecho propio. Se utilizan ligeras variaciones en el dialecto **Draconic** entre los diferentes tipos de [[Dragon#Chromatic Dragon|chromatic dragons]], y se consideran equivalentes a los acentos regionales. Los [[Dragon#Metallic Dragon|metallic dragons]], por otro lado, tienen todos acentos similares.
+
+Los **dragonborn** y los **kobolds** tienen sus propios dialectos **Draconic** únicos, el **Tymantheran** y el **Yipyak**, respectivamente. Las **dracohydras** también tienen su propio dialecto, derivado del de los **chromatic dragons**. Hay suficientes similitudes entre estos dialectos como para que los **chromatics** y las **dracohydras** puedan entender aproximadamente la mitad de lo que dice el otro.
+
+Es un idioma de consonantes duras y sibilantes que, por lo general, suenan como si se hablaran con un silbido, como sj, ss y sv. También incluye un sonido similar al de una criatura que se aclara la garganta, ach.
+
+Las palabras **Draconic** se enfatizan en la primera sílaba y los hablantes de **Draconic** expresan ideas importantes enfatizando el comienzo y el final de las palabras. Los **dragons** suelen utilizar esto para referirse a sí mismos o cuando quieren dar órdenes, advertir, amenazar o dejar en claro su punto de vista.
+
+Todos los dialectos **Draconic** utilizan una escritura conocida como **Iokharic**, aunque existía la idea errónea entre algunos de que solo los **gold dragons** tenían un lenguaje escrito. Es probable que esta escritura se haya creado mucho después de que se estandarizara su forma hablada, ya que los **dragon** tenían poca o ninguna necesidad de escribir en comparación con otras razas.
+
 - Escritura: **Iokharic**
 - Hablantes: [[Dragon|Dragons]], **Dragonborns**, [[Kobold|Kobolds]], **Lizardfolks**, **Troglodytes** y **Wyverns**
 
 ## Dwarvish
 
-El **Dwarvish** o **Dwarven** era el nombre de una familia de idiomas utilizados por los **dwarves**. El idioma ha existido desde que aparecieron los primeros **dwarves**. La forma antigua del idioma se llamaba **Auld Dwarven**.
+El **Dwarvish** o **Dwarven** era el nombre de una familia de idiomas utilizados por los **dwarves**. El idioma ha existido desde que aparecieron los primeros **dwarves**. La forma antigua del idioma se llama **Auld Dwarven**.
 
-Es un idioma recortado de consonantes duras y pronunciación gutural. El enano comparte su alfabeto rúnico con el **Petran**, junto con una serie de otras similitudes. Los **dwarves** llamaban a su propia lengua **Dethek**, pero la mayoría de las demás razas utilizaban ese término para referirse al alfabeto rúnico en el que se escribía el idioma.
-
-Los nombres **dwarven** están llenos de consonantes que suenan ásperas y rara vez incluyen sonidos suaves o sibilantes. Los honoríficos son comunes en los nombres de pila, como "-sun" ("-hijo"), "-dam" ("-hija") y "-hild" ("-esposa"). Los apellidos a veces contienen palabras en [[Idiomas#Common|Common]] como "oro" o "martillo". Además, las letras Q y X no aparecen en **Dwarvish**.
+Es un idioma recortado de consonantes duras y pronunciación gutural. El enano comparte su alfabeto rúnico con el **Petran**, junto con una serie de otras similitudes. Los **dwarves** llaman a su propia lengua **Dethek**, pero la mayoría de las demás razas utilizan ese término para referirse al alfabeto rúnico en el que se escribía el idioma.
 
 Aunque el idioma en su forma pura y su vocabulario exclusivo habían caído en desuso, el **Dwarvish** todavía se encontraba por todo [[Realmspace]] inscrito en armas, edificios y objetos místicos.
 
@@ -167,13 +181,13 @@ El **Thri-Kreen**, también conocido simplemente como **Kreen**, es el idioma ra
 
 El idioma se compone de una serie de zumbidos, chasquidos, oclusiones glotales, estallidos, ronquidos, una ráfaga de aire de los pulmones acompañada de crujidos de mandíbulas, chasquidos y silbidos.
 
-La mayoría de las demás criaturas consideraban que los diversos sonidos del idioma eran difíciles, si no imposibles, de duplicar o imitar y difíciles de interpretar. Esto llevó a algunos a creer erróneamente que el **Thri-Kreen** era un idioma sin palabras.
+La mayoría de las demás criaturas consideran que los diversos sonidos del idioma son difíciles, si no imposibles, de duplicar o imitar y difíciles de interpretar. Esto llevó a algunos a creer erróneamente que el **Thri-Kreen** era un idioma sin palabras.
 
 El conocimiento de la lengua **Kreen** era heredado por todos los **thri-kreen** a través de una memoria racial compartida. Este era el medio principal por el cual se aprendía el idioma, en lugar de ser enseñado por otros a lo largo del tiempo como otros idiomas. Como consecuencia, esto hizo que el **Thri-Kreen** fuera en gran parte estático como idioma, cambiando poco a lo largo de los siglos. Podían pasar muchas generaciones antes de que los cambios en el idioma, como nuevas palabras, se generalizaran en el idioma racial. Hasta que ocurriera ese momento, los cambios tendrían que enseñarse manualmente y transmitirse a los niños.
 
 Más allá de los propios **thri-kreen**, una imitación perfecta del idioma es hablada por los [[Clockwork Horrors|clockwork horrors]], un tipo de construcción interestelar.
 
-No existe una escritura oficial única para la lengua **Kreen**. Algunos **thri-kreen** consideraban que los sonidos de su lengua no podían transmitirse de forma suficiente mediante escritura, mientras que otras comunidades sí utilizaban alguna forma de escritura. Si existía una escritura **Thri-Kreen** en una comunidad, el conocimiento básico de la misma se transmitiría a través de la memoria racial y se activaría al ver por primera vez dicha escritura.
+No existe una escritura oficial única para la lengua **Kreen**. Algunos **thri-kreen** consideran que los sonidos de su lengua no podían transmitirse de forma suficiente mediante escritura, mientras que otras comunidades sí utilizan alguna forma de escritura. Si existía una escritura **Thri-Kreen** en una comunidad, el conocimiento básico de la misma se transmitiría a través de la memoria racial y se activaría al ver por primera vez dicha escritura.
 
 - Escritura: Variada
 - Hablantes: **Thri-Kreen**

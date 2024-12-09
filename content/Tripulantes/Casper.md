@@ -37,16 +37,16 @@
 
 ## Habilidades
 
-### Lenguajes
+### Idiomas
 
-- [[Lenguajes#Common|Common]]
-- [[Lenguajes#Draconic|Draconic]]
+- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Draconic|Draconic]]
 
-- [[Lenguajes#Aquan|Aquan]]
-- [[Lenguajes]]
+- [[Idiomas#Aquan|Aquan]]
+- [[Idiomas]]
 
-- [[Lenguajes]]
-- [[Lenguajes]]
+- [[Idiomas]]
+- [[Idiomas]]
 
 # Frases Icónicas
 

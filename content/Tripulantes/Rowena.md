@@ -211,28 +211,28 @@ Ese gesto reconfortó profundamente su corazón. Aunque decidió portar el pin d
 
 ## Habilidades
 
-### Lenguajes
+### Idiomas
 
-- [[Lenguajes#Common|Common]]
-- [[Lenguajes#Skald|Skald]]
+- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Skald|Skald]]
 
-- [[Lenguajes#Aklo|Aklo]]
-- [[Lenguajes#Celestial|Celestial]]
-- [[Lenguajes#Draconic|Draconic]]
-- [[Lenguajes#Dwarven|Dwarven]]
-- [[Lenguajes#Elven|Elven]]
-- [[Lenguajes#Goblin|Goblin]]
-- Grimm Nebula-[[Lenguajes#Sign Language|Sign Language]]
-- [[Lenguajes#Halfling|Halfling]]
-- [[Lenguajes#Infernal|Infernal]]
-- [[Lenguajes#Sylvan|Sylvan]]
+- [[Idiomas#Aklo|Aklo]]
+- [[Idiomas#Celestial|Celestial]]
+- [[Idiomas#Draconic|Draconic]]
+- [[Idiomas#Dwarven|Dwarven]]
+- [[Idiomas#Elven|Elven]]
+- [[Idiomas#Goblin|Goblin]]
+- [[Idiomas#Grimm Nebula sign language|Grimm Nebula sign language]]
+- [[Idiomas#Halfling|Halfling]]
+- [[Idiomas#Infernal|Infernal]]
+- [[Idiomas#Sylvan|Sylvan]]
 
-- [[Lenguajes#Thri-Kreen|Thri-Kreen]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
+- [[Idiomas#Thri-Kreen|Thri-Kreen]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
 
 # Frases Icónicas
 

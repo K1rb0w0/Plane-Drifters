@@ -150,12 +150,12 @@ Sí, tengo una lista. No cualquier lista, una lista sexual. Un registro meticulo
 
 ## Habilidades
 
-### Lenguajes
+### Idiomas
 
-- [[Lenguajes#Common|Common]]
-- [[Lenguajes#Celestial|Celestial]]
+- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Celestial|Celestial]]
 
-- [[Lenguajes#Infernal|Infernal]]
+- [[Idiomas#Infernal|Infernal]]
 
 # Frases Icónicas
 

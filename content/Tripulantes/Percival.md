@@ -37,29 +37,29 @@
 
 ## Habilidades
 
-### Lenguajes
+### Idiomas
 
-- [[Lenguajes#Common|Common]]
-- [[Lenguajes#Raumvira|Raumvira]]
+- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Raumvira|Raumvira]]
 
-- [[Lenguajes#Abyssal|Abyssal]]
-- [[Lenguajes#Aquan|Aquan]]
-- [[Lenguajes#Celestial|Celestial]]
-- [[Lenguajes#Draconic|Draconic]]
-- [[Lenguajes#Dwarven|Dwarven]]
-- [[Lenguajes#Elven|Elven]]
-- [[Lenguajes#Giant|Giant]]
-- [[Lenguajes#Halfling|Halfling]]
-- [[Lenguajes#Infernal|Infernal]]
-- [[Lenguajes#Sylvan|Sylvan]]
-- [[Lenguajes#Undercommon|Undercommon]]
+- [[Idiomas#Abyssal|Abyssal]]
+- [[Idiomas#Aquan|Aquan]]
+- [[Idiomas#Celestial|Celestial]]
+- [[Idiomas#Draconic|Draconic]]
+- [[Idiomas#Dwarven|Dwarven]]
+- [[Idiomas#Elven|Elven]]
+- [[Idiomas#Giant|Giant]]
+- [[Idiomas#Halfling|Halfling]]
+- [[Idiomas#Infernal|Infernal]]
+- [[Idiomas#Sylvan|Sylvan]]
+- [[Idiomas#Undercommon|Undercommon]]
   
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
-- [[Lenguajes]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
+- [[Idiomas]]
 
 # Frases Icónicas
 

@@ -37,22 +37,22 @@
 
 ## Habilidades
 
-### Lenguajes
+### Idiomas
 
-- [[Lenguajes#Common|Common]]
-- [[Lenguajes#Elven|Elven]]
+- [[Idiomas#Common#Realmspace|Realmspace Common]]
+- [[Idiomas#Elven|Elven]]
 
-- [[Lenguajes#Draconic|Draconic]]
-- [[Lenguajes#Necril|Necril]]
-- [[Lenguajes#Thieves' Cant|Thieves' Cant]]
-- [[Lenguajes#Tharian|Tharian]] (Zhentarim Argot)
-- [[Lenguajes#Undercommon|Undercommon]]
+- [[Idiomas#Draconic|Draconic]]
+- [[Idiomas#Necril|Necril]]
+- [[Idiomas#Thieves' Cant|Thieves' Cant]]
+- [[Idiomas#Tharian|Tharian]] (Zhentarim Argot)
+- [[Idiomas#Undercommon|Undercommon]]
 
-- [[Lenguajes#Giant|Giant]]
-- [[Lenguajes#Infernal|Infernal]]
-- [[Lenguajes#Sylvan|Sylvan]]
-- [[Lenguajes]]
-- [[Lenguajes]]
+- [[Idiomas#Giant|Giant]]
+- [[Idiomas#Infernal|Infernal]]
+- [[Idiomas#Sylvan|Sylvan]]
+- [[Idiomas]]
+- [[Idiomas]]
 
 # Frases Icónicas
 

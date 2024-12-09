@@ -213,7 +213,7 @@ Ese gesto reconfortó profundamente su corazón. Aunque decidió portar el pin d
 
 ### Idiomas
 
-- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Wildspace|Wildspace Common]]
 - [[Idiomas#Skald|Skald]]
 
 - [[Idiomas#Aklo|Aklo]]

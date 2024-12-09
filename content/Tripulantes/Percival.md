@@ -39,7 +39,7 @@
 
 ### Idiomas
 
-- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Wildspace|Wildspace Common]]
 - [[Idiomas#Raumvira|Raumvira]]
 
 - [[Idiomas#Abyssal|Abyssal]]

@@ -170,7 +170,7 @@ Al igual que el [[Idiomas#Dwarvish|Dwarvish]], cada mundo tiene un dialecto **Ha
 
 El **Sylvan** es el idioma de los [[Fey|feys]], es uno de los idiomas más estáticos de todos. Se cree que es casi tan antiguo como el [[Idiomas#No Humanos#Draconic|Draconic]], y tiene un vocabulario diminuto que apenas ha cambiado a lo largo de los eones.
 
-Su forma escrita utilizaba el alfabeto **Espruar**. De éste se desprenden varios derivados y dialectos, como el que hablan los centauros del \*\*Krynnspace.
+Su forma escrita utilizaba el alfabeto **Espruar**. De éste se desprenden varios derivados y dialectos, como el que hablan los centauros del [[Krynnspace]].
 
 - Escritura: **Espruar**
 - Hablantes: [[Feys]]

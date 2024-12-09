@@ -152,7 +152,7 @@ Sí, tengo una lista. No cualquier lista, una lista sexual. Un registro meticulo
 
 ### Idiomas
 
-- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Wildspace|Wildspace Common]]
 - [[Idiomas#Celestial|Celestial]]
 
 - [[Idiomas#Infernal|Infernal]]

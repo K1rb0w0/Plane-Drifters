@@ -39,7 +39,7 @@
 
 ### Idiomas
 
-- [[Idiomas#Common#Wildspace|Wildspace Common]]
+- [[Idiomas#Wildspace|Wildspace Common]]
 - [[Idiomas#Draconic|Draconic]]
 
 - [[Idiomas#Aquan|Aquan]]

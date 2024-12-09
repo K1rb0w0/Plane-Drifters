@@ -39,7 +39,7 @@
 
 ### Idiomas
 
-- [[Idiomas#Common#Realmspace|Realmspace Common]]
+- [[Idiomas#Realmspace|Realmspace Common]]
 - [[Idiomas#Elven|Elven]]
 
 - [[Idiomas#Draconic|Draconic]]

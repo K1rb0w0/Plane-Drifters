@@ -1,19 +1,19 @@
 # Tamara Chyr Oksana Vantur Velikovna
 
-|                         | ![[Tamara Token.png\|256]] |                                     |
-| :---------------------- | :------------------------- | :---------------------------------- |
-| **Género**              |                            | Femenino                            |
-| **Títulos**             |                            | Viper de [[Zhentarim\|la Red]]      |
-| **Tipo de Criatura**    |                            | Humanoid                            |
-| **Raza**                |                            | [[Elf]] (Dusk Elf)                  |
-| **Clases**              |                            | Magus (Myrmidarch)<br>Arcane Archer |
-| **Fecha de nacimiento** |                            |                                     |
-| **Edad**                |                            | 170 años                            |
-| **Alineamiento**        |                            | Legal Neutral                       |
-| **Lugares simbólicos**  |                            |                                     |
-| **Conexiones**          |                            |                                     |
-| **Estado**              |                            | Viva (Revivida 3 veces)             |
-| **Causas de Muerte**    |                            |                                     |
+|                         | ![[Tamara Token.png\|256]] |                                                                                                    |
+| :---------------------- | :------------------------- | :------------------------------------------------------------------------------------------------- |
+| **Género**              |                            | Femenino                                                                                           |
+| **Títulos**             |                            | Viper de [[Zhentarim\|la Red]]                                                                     |
+| **Tipo de Criatura**    |                            | Humanoid                                                                                           |
+| **Raza**                |                            | [[Elf]] (Dusk Elf)                                                                                 |
+| **Clases**              |                            | Magus (Myrmidarch)<br>Arcane Archer                                                                |
+| **Fecha de nacimiento** |                            |                                                                                                    |
+| **Edad**                |                            | 170 años                                                                                           |
+| **Alineamiento**        |                            | Legal Neutral                                                                                      |
+| **Lugares simbólicos**  |                            |                                                                                                    |
+| **Conexiones**          |                            |                                                                                                    |
+| **Estado**              |                            | Viva (Revivida 3 veces)                                                                            |
+| **Causas de Muerte**    |                            | Asesinada por un [[Anointed Mummy\|anointed mummy]]<br>Asesinada por un [[Ammit\|ammit]] (2 veces) |
 
 # Descripción
 

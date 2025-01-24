@@ -43,7 +43,7 @@
 - [[Idiomas#Draconic|Draconic]]
 
 - [[Idiomas#Aquan|Aquan]]
-- [[Idiomas]]
+- [[Idiomas#Celestial|Celestial]]
 
 - [[Idiomas]]
 - [[Idiomas]]

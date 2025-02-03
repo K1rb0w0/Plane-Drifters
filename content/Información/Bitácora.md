@@ -4,14 +4,18 @@
 
 ### 17
 - Llegan a Kwintter's Ranch y encuentran a los pobladores preparándose para combatir contra Artha y sus súbditos después ser amenazados.
-
+- Descubren que Artha no participa en las masacres, solo da un primer ataque y luego se retira.
+- Los ayudan preparando armas de asedio y elaborando un plan para no ser vistos por Artha y poder hacerse cargo del resto de criaturas.
+- Luchan contra 6 Eyewings y 2 Young Adult Black Dragons, dejando inconsciente a los dragones para poder extraer información.
+- Buscando en los recuerdos de uno de los dragones, descubren la posible ubicación de Artha y la presencia de más dragones apoyándola.
+- El otro dragón despierta y escapa.
 ### 16
 - Llegan al campamento Kagonesti guiados por un White Stag.
 - Linsilee los lleva a conocer a Ky, una cabeza de Gold Dragon que vive absorbiendo nutrientes del agua, hijo de Tarligor.
 - Ky les comentó que él y sus hermanos fueron utilizados en experimentos por Tarligor en un laboratorio en Shadowglades para crear al dragón perfecto. Hasta que todo se detuvo cuando el último hijo, Artha, creció.
-- Midas añade wild elf a su Lista.
+- Midas añade elfo salvaje a su Lista.
 - Descubren que el rancho de Kwintter fue atacado por Artha y parten hacia allá.
-- Midas crea su primer contrato para atar a Xem, la imp, bajo su servicio.
+- Midas crea su primer contrato para atar a Xem, la Imp, bajo su servicio.
 
 ### 15
 
